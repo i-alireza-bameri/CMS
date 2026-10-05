@@ -2,6 +2,7 @@ import os
 import shutil
 import uuid
 from pathlib import Path
+from typing import Optional
 from fastapi import APIRouter, Depends, HTTPException, UploadFile, File, Form, status
 from fastapi.responses import FileResponse
 from sqlmodel import Session, select
