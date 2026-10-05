@@ -1,0 +1,6 @@
+{
+  "name": "OmniSpace — Workspace & Content Hub",
+  "description": "Enterprise Workspace, Project, and Content Management platform featuring FastAPI, SQLModel, Strawberry GraphQL, JWT auth, and interactive document & media viewers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
